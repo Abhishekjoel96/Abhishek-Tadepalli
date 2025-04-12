@@ -1,5 +1,4 @@
-# Hi there, I'm Abhishek Tadepalli! 👋 <
-
+# Hi there, I'm Abhishek Tadepalli! 👋 
 
 I'm an energetic and innovative **Generative AI Engineer** based in Hyderabad, Telangana 🇮🇳.
 I'm passionate about leveraging AI, specializing in agentic LLM frameworks, chatbots, cloud deployments, and building state-of-the-art AI solutions. My journey includes a background in Civil Engineering and diverse professional experiences, now fully focused on the exciting world of Generative AI!
